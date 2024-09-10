@@ -1,0 +1,39 @@
+{
+    "name": "Aman_Singh",
+    "avatar": "/avatar2.jpg",
+    "desc": "Web developer crafting seamless digital experiences. Let's code the future and shape the web world together. 🌐🚀",
+    "links": [
+        {
+            "title": "Messenger app",
+            "url": "https://messenger-app-ashen.vercel.app/",
+            "image": "/messenger.png"
+        },
+        {
+            "title": "Canvas Doc",
+            "url": "https://canvas-2-0-ochre.vercel.app/",
+            "image": "/logo.png"
+        },
+        {
+            "title": "Budget Tracker",
+            "url": "https://budget-omega-eight.vercel.app/"
+        },
+        {
+            "title": "Form Builder",
+            "url": "https://form-maker-jade.vercel.app/"
+        },
+        {
+            "title": "Reminder App",
+            "url": "https://reminder-gold.vercel.app/"
+        }
+    ],
+    "socials": [
+        {
+            "title": "Github",
+            "url": "https://github.com/Aman0430"
+        },
+        {
+            "title": "Linkedin",
+            "url": "https://www.linkedin.com/in/aman-nord2941/"
+        }
+    ]
+}
